@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "mohaq-lon@gmail.com"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "https://github.com/mo-lon/bootstrap-sass.git#3c61115eade5c18d69efa8339ecd5d6bcba57de1",
+    "jquery": ">= 1.9.0"
+  }
+}
