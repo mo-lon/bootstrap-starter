@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-starter",
+  "version": "0.0.0",
+  "description": "Companion of bootstrap-sass",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mo-lon@github.com/mo-lon/bootstrap-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mo-lon/bootstrap-starter/issues"
+  },
+  "homepage": "https://github.com/mo-lon/bootstrap-starter",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bower-install-simple": "~1.1.0",
+    "grunt-concurrent": "~1.0.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "~0.17.0",
+    "grunt-browser-sync": "~1.9.1",
+    "load-grunt-tasks": "~3.1.0"
+  }
+}
